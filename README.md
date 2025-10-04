@@ -1,16 +1,16 @@
-## Waste Segregation Ranking App – Prototype UI for SIH
+## 🌳 Waste Segregation Ranking App – Prototype UI for SIH
 
-## Problem Statement
+## ‼️ Problem Statement
 
 With growing urbanization, improper waste disposal has become a major environmental issue. Communities struggle to maintain cleanliness due to the lack of awareness and motivation for proper waste segregation.
 
-## Challenge:
+## 🔥 Challenge:
 
 Encourage households and organizations to segregate waste properly.
 
 Provide a ranking system to motivate better waste management practices.
 
-## Solution
+## 🧊 Solution
 
 Our application provides a prototype UI that:
 
@@ -34,12 +34,14 @@ Leaderboard displaying top-ranked users/communities.
 
 Dashboard with stats and suggestions for better segregation.
 
-## Preview
+## 🪟 Preview
+<img width="944" height="1485" alt="image" src="https://github.com/user-attachments/assets/b443d1f0-e60b-4d46-894a-b4ad523fa9b4" />
 
 
 
 
-Tech Stack (UI Prototype)
+
+## 💻 Tech Stack (UI Prototype)
 
 Frontend: HTML, CSS, JavaScript
 
